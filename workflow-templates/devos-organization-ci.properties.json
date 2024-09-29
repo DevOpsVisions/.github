@@ -1,0 +1,9 @@
+{
+    "name": "DevOs Organization Workflow",
+    "description": "DevOs Organization CI workflow template.",
+    "iconName": "octicon smiley",
+    "categories": [
+        "continuous-integration"
+    ],
+    "filePatterns": []
+}
