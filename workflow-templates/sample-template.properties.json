@@ -1,7 +1,7 @@
 {
     "name": "DevOps Visions Sample Template",
     "description": "DevOps Visions Sample Template.",
-    "iconName": "mark-github",
+    "iconName": "octicon mark-github",
     "categories": [],
     "filePatterns": []
 }
